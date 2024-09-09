@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://muhammadpeer.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://muhammadpeer.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://muhammadpeer.github.io/mywebsite/cool-car-video.html</loc>
+<lastmod>2024-09-06T09:55:30+02:00</lastmod>
+</url>
+<url>
+<loc>https://muhammadpeer.github.io/mywebsite/my-contact-information.html</loc>
+<lastmod>2024-09-06T09:25:11+02:00</lastmod>
+</url>
+<url>
+<loc>https://muhammadpeer.github.io/mywebsite/my-top-10-cars-on-auto-trader.html</loc>
+<lastmod>2024-09-06T10:31:24+02:00</lastmod>
+</url>
+<url>
+<loc>https://muhammadpeer.github.io/mywebsite/product.html</loc>
+<lastmod>2024-09-06T10:14:12+02:00</lastmod>
+</url>
+<url>
+<loc>https://muhammadpeer.github.io/mywebsite/what-are-the-punishments.html</loc>
+<lastmod>2024-09-06T09:20:09+02:00</lastmod>
+</url>
+</urlset>
